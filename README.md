@@ -55,6 +55,7 @@ To install the opencv package use the following command:
 (16) Show required images and close the camera if 'Q' is pressed
 
 # Working Example:
+![](working_video.gif)
 
 
 # Execution:
