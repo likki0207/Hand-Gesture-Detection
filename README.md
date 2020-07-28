@@ -57,4 +57,9 @@ To install the opencv package use the following command:
 # Working Example:
 
 
+# Execution:
+To run the code, type the following command:
+
+python hand_gesture.py
+
 
