@@ -10,10 +10,15 @@ Try to position hand completely in the box and avoid arm or wrist coming in the 
 
 # Installing the required packages:
 To install the opencv package use the following command:
+
 -> pip install opencv-python
+
 To install the opencv package use the following command:
+
 -> pip install maths
+
 To install the opencv package use the following command:
+
 -> pip install numpy
 
 # Steps to Build this project:
