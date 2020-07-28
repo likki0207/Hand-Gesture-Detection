@@ -13,11 +13,11 @@ To install the opencv package use the following command:
 
 -> pip install opencv-python
 
-To install the opencv package use the following command:
+To install the maths package use the following command:
 
 -> pip install maths
 
-To install the opencv package use the following command:
+To install the numpy package use the following command:
 
 -> pip install numpy
 
