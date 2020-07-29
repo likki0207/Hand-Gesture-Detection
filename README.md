@@ -3,6 +3,9 @@
 This code helps you to understand the numbers displayed through your fingers using webcam. Adjusting the brightness of screen varies result. 
 Try to position hand completely in the box and avoid arm or wrist coming in the box(as it will change the arearatio).
 
+# Working Example:
+![](working_video.gif)
+
 # Code Requirements :
 (a) opencv
 (b) math
@@ -53,9 +56,6 @@ To install the numpy package use the following command:
 (15) Print number of fingers-output
 
 (16) Show required images and close the camera if 'Q' is pressed
-
-# Working Example:
-![](working_video.gif)
 
 
 # Execution:
