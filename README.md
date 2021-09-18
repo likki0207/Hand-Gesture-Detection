@@ -63,4 +63,6 @@ To run the code, type the following command:
 
 -> python hand_gesture.py
 
+# Why should we convert RGB colors to HSV colors?
 
+R, G, B in RGB are all co-related to the color luminance( what we loosely call intensity),i.e., We cannot separate color information from luminance. HSV or Hue Saturation Value is used to separate image luminance from color information. This makes it easier when we are working on or need luminance of the image/frame.
