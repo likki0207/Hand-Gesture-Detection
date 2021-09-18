@@ -9,7 +9,7 @@ cap = cv2.VideoCapture(0)
 
 while cap.isOpened():
 
-    # noww we will capture the frames from the camera
+    # now we will capture the frames from the camera
     ret, frame = cap.read()
 
     # Get hand data from the rectangle sub window
