@@ -11,6 +11,10 @@ Try to position hand completely in the box and avoid arm or wrist coming in the 
 (b) math
 (c) numpy
 
+# Flowchart
+![image](https://user-images.githubusercontent.com/68856803/133891883-5705cb30-dc17-4d99-8fef-1d0acb9a18f8.png)
+
+
 # Installing the required packages:
 To install the opencv package use the following command:
 
